@@ -14,7 +14,7 @@
 - **Tools**: Python, TensorFlow, RNN
 - **Description**: The model was trained on a classical music dataset to generate original music compositions based on learned patterns.
 
-### [3. Greybox Model for Predicting PVD-Coated Tool Performance]
+### 3. Greybox Model for Predicting PVD-Coated Tool Performance
 - Developing a Greybox model that predicts the performance of PVD-coated tools in manufacturing processes.
 - **Tools**: Python, Machine Learning, Data Analysis
 - **Description**: Combined physics-based modelling with data-driven approaches to improve tool selection and optimize manufacturing parameters.
