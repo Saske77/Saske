@@ -32,3 +32,20 @@
 - **Master of Science in Environmental Engineering**, Leibniz University Hannover, Germany (2023 - Present)
 - **Bachelor of Science in Mechanical Engineering**, Vellore Institute of Technology, India (2016 - 2020)
 
+## Work Experience
+
+### Student Assistant, Leibniz University Hannover (Jan 2024 - Present)
+- Developing machine learning models for predicting the performance of PVD-coated tools.
+- Working on data analysis and optimization for improving manufacturing processes.
+
+### Senior Associate - Registration and Compliance, Amazon (May 2021 - Jun 2022)
+- Conducted data analysis and collaborated with technical teams to enhance platform security.
+- Developed strategies to mitigate risks and improve customer safety.
+
+## Contact
+
+- **Email**: vatsal.gupta@stud.uni-hannover.de
+- **LinkedIn**: [Vatsal Gupta](https://www.linkedin.com/in/vatsal-gupta13)
+- **GitHub**: [github.com/vatsalgupta](https://github.com/vatsalgupta)
+
+
