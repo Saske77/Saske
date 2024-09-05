@@ -1,4 +1,3 @@
-# Saske is my alias almost everywhere which is why I have also used it for GitHub
 # Vatsal Gupta - Machine Learning Enthusiast
 # Hi, I'm **Vatsal Gupta**, a Master's student in Environmental Engineering at Leibniz University Hannover, specializing in machine learning and data-driven modelling. I'm passionate about solving real-world problems using advanced data analysis and machine learning techniques. I'm actively looking for internship opportunities to further my machine learning and AI skills.
 
@@ -20,7 +19,7 @@
 - **Tools**: Python, Machine Learning, Data Analysis
 - **Description**: Combined physics-based modelling with data-driven approaches to improve tool selection and optimize manufacturing parameters.
 
-- ## Skills
+## Skills
 
 - **Programming**: Python, LaTeX
 - **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
