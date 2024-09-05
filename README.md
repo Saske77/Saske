@@ -46,6 +46,6 @@
 
 - **Email**: vatsal.gupta@stud.uni-hannover.de
 - **LinkedIn**: [Vatsal Gupta](https://www.linkedin.com/in/vatsal-gupta13)
-- **GitHub**: [github.com/vatsalgupta](https://github.com/vatsalgupta)
+- **GitHub**: [github.com/Saske77](https://github.com/Saske77/Saske))
 
 
