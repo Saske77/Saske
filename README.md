@@ -1,0 +1,35 @@
+# Saske is my alias almost everywhere which is why I have also used it for GitHub
+# Vatsal Gupta - Machine Learning Enthusiast
+# Hi, I'm **Vatsal Gupta**, a Master's student in Environmental Engineering at Leibniz University Hannover, specializing in machine learning and data-driven modelling. I'm passionate about solving real-world problems using advanced data analysis and machine learning techniques. I'm actively looking for internship opportunities to further my machine learning and AI skills.
+
+
+## Projects
+
+### [1. Image Style Transfer with Vision Transformers (ViT)](https://github.com/username/image-style-transfer)
+- Implemented an image style-transfer model based on the STyTR2 paper using Vision Transformers (ViT) in PyTorch.
+- **Tools**: PyTorch, Python, Vision Transformers
+- **Description**: Developed a model that applies artistic styles to images by learning content and style features. Fine-tuned for optimal image quality.
+
+### [2. Music Generation with Recurrent Neural Networks (RNNs)](https://github.com/username/music-generation)
+- Created an RNN model that generates musical compositions by predicting the next note in a sequence using ABC notation.
+- **Tools**: Python, TensorFlow, RNN
+- **Description**: The model was trained on a classical music dataset to generate original music compositions based on learned patterns.
+
+### [3. Greybox Model for Predicting PVD-Coated Tool Performance](https://github.com/username/greybox-pvd-tool)
+- Developed a Greybox model that predicts the performance of PVD-coated tools in manufacturing processes.
+- **Tools**: Python, Machine Learning, Data Analysis
+- **Description**: Combined physics-based modelling with data-driven approaches to improve tool selection and optimize manufacturing parameters.
+
+- ## Skills
+
+- **Programming**: Python, LaTeX
+- **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
+- **Data Science**: Scipy, NumPy, Matplotlib
+- **Tools**: ANSYS, SolidWorks, Git, Jupyter Notebooks
+- **Languages**: English (Fluent), Hindi (Native), German (B2)
+
+## Education
+
+- **Master of Science in Environmental Engineering**, Leibniz University Hannover, Germany (2023 - Present)
+- **Bachelor of Science in Mechanical Engineering**, Vellore Institute of Technology, India (2016 - 2020)
+
