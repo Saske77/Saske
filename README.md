@@ -4,18 +4,18 @@
 
 ## Projects
 
-### [1. Image Style Transfer with Vision Transformers (ViT)](https://github.com/username/image-style-transfer)
+### [1. Image Style Transfer with Vision Transformers (ViT)](https://github.com/diyiiyiii/StyTR-2)
 - Implemented an image style-transfer model based on the STyTR2 paper using Vision Transformers (ViT) in PyTorch.
 - **Tools**: PyTorch, Python, Vision Transformers
 - **Description**: Developed a model that applies artistic styles to images by learning content and style features. Fine-tuned for optimal image quality.
 
-### [2. Music Generation with Recurrent Neural Networks (RNNs)](https://github.com/username/music-generation)
+### [2. Music Generation with Recurrent Neural Networks (RNNs)](https://github.com/aamini/introtodeeplearning/tree/master/lab1)
 - Created an RNN model that generates musical compositions by predicting the next note in a sequence using ABC notation.
 - **Tools**: Python, TensorFlow, RNN
 - **Description**: The model was trained on a classical music dataset to generate original music compositions based on learned patterns.
 
-### [3. Greybox Model for Predicting PVD-Coated Tool Performance](https://github.com/username/greybox-pvd-tool)
-- Developed a Greybox model that predicts the performance of PVD-coated tools in manufacturing processes.
+### [3. Greybox Model for Predicting PVD-Coated Tool Performance]
+- Developing a Greybox model that predicts the performance of PVD-coated tools in manufacturing processes.
 - **Tools**: Python, Machine Learning, Data Analysis
 - **Description**: Combined physics-based modelling with data-driven approaches to improve tool selection and optimize manufacturing parameters.
 
